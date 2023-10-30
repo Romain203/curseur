@@ -1,0 +1,27 @@
+.rond.c1{
+    background: blue;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    transform: translate(-50%,-50%);
+
+}
+.rond.c2{
+    background: rgb(147, 147, 206);
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    transform: translate(-50%,-50%);
+
+}
+.rond.c3{
+    background: red;
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    transform: translate(-50%,-50%);
+
+}
